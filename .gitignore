@@ -1,0 +1,8 @@
+data/downloaded
+training/data/downloaded
+
+# Python
+__pycache__
+.pytest_cache
+
+lightning_logs/
